@@ -1,2 +1,3 @@
 # cpplib-files
-large lib files for cpplib
+lib files repository for cpplib:
+https://github.com/alextrevisan/cpplib
